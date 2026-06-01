@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# But keep the gitignore file itself
+!.gitignore
+
+# Keep folders so Git can look inside them
+!*/
+
+# Keep XML files exactly one folder deep
+!*/*.xml
+
+# Ignore anything deeper
+*/*/*
