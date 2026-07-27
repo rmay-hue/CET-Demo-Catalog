@@ -312306,32 +312306,6 @@
                     <ProductPropertyVisibility>1</ProductPropertyVisibility>
                 </Product>
                 <Product>
-                    <Code>The Man</Code>
-                    <Description Language="en-US">yeah its Chris you know it.</Description>
-                    <Price>
-                        <PriceListRef>P3</PriceListRef>
-                        <Value>1000000000</Value>
-                    </Price>
-                    <Price>
-                        <PriceListRef>P4</PriceListRef>
-                        <Value>1000000000</Value>
-                    </Price>
-                    <Price>
-                        <PriceListRef>P5</PriceListRef>
-                        <Value>1000000000</Value>
-                    </Price>
-                    <Price>
-                        <PriceListRef>P1</PriceListRef>
-                        <Value>1000000000</Value>
-                    </Price>
-                    <Price>
-                        <PriceListRef>P2</PriceListRef>
-                        <Value>1000000000</Value>
-                    </Price>
-                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
-                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
-                </Product>
-                <Product>
                     <Code>WMT-23</Code>
                     <Description Language="en-US">23W x 4.5D, Wire Management Trough</Description>
                     <Price>
@@ -313178,7 +313152,7 @@
         <Catalog Sequence="1">
             <Code>PUL</Code>
             <Version>
-                <Code>2026.07.29</Code>
+                <Code>2026.07.29B</Code>
             </Version>
             <Description Language="en-US">Pulse - Casegoods</Description>
             <Name Language="en-US">Pulse - Casegoods</Name>
@@ -316318,18 +316292,6 @@
                                 <VendorRef>OFS</VendorRef>
                                 <ProductCode>Q-4-OCD1</ProductCode>
                                 <SelectionDescription Language="en-US">Pulse QuickShip23x13x3.25 Center Drawer</SelectionDescription>
-                            </ProductRef>
-                        </Level>
-                        <Level>
-                            <Code>ὸ0</Code>
-                            <UniqueCode>5015f059-814a-473d-ade2-15ff0f2047d9</UniqueCode>
-                            <UILevel>container</UILevel>
-                            <Description Language="en-US">the man</Description>
-                            <ProductRef>
-                                <EnterpriseRef>OFS</EnterpriseRef>
-                                <VendorRef>OFS</VendorRef>
-                                <ProductCode>The Man</ProductCode>
-                                <SelectionDescription Language="en-US">yeah its Chris you know it.</SelectionDescription>
                             </ProductRef>
                         </Level>
                     </Level>
