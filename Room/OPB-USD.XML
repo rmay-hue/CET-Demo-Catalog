@@ -4805,32 +4805,6 @@
                     <ProductPropertyVisibility>1</ProductPropertyVisibility>
                 </Product>
                 <Product>
-                    <Code>C-PB-LIGHT-STD-NL-NA</Code>
-                    <Description Language="en-US">ROOM, Phone Booth, Light, No Logo</Description>
-                    <Price>
-                        <PriceListRef>P4</PriceListRef>
-                        <Value>5995</Value>
-                    </Price>
-                    <Price>
-                        <PriceListRef>P3</PriceListRef>
-                        <Value>5995</Value>
-                    </Price>
-                    <Price>
-                        <PriceListRef>P2</PriceListRef>
-                        <Value>5995</Value>
-                    </Price>
-                    <Price>
-                        <PriceListRef>P1</PriceListRef>
-                        <Value>5995</Value>
-                    </Price>
-                    <Price>
-                        <PriceListRef>P5</PriceListRef>
-                        <Value>5995</Value>
-                    </Price>
-                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
-                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
-                </Product>
-                <Product>
                     <Code>CUST-OT-ADD-ON</Code>
                     <Description Language="en-US">Overtime Charge</Description>
                     <Price>
@@ -15767,6 +15741,214 @@
                     <ProductPropertyVisibility>1</ProductPropertyVisibility>
                 </Product>
                 <Product>
+                    <Code>TDS-E-SHIP-PB-ADD-ON</Code>
+                    <Description Language="en-US">Expedited Add-On, Two-Day Shipping</Description>
+                    <Price>
+                        <PriceListRef>P3</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P4</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P5</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P1</PriceListRef>
+                        <Value>500</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P2</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
+                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
+                </Product>
+                <Product>
+                    <Code>TDS-PB-STD-SUR-AC-C</Code>
+                    <Description Language="en-US">Phone Booth, Light, Consumer</Description>
+                    <Price>
+                        <PriceListRef>P3</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P4</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P5</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P1</PriceListRef>
+                        <Value>6495</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P2</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
+                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
+                </Product>
+                <Product>
+                    <Code>TDS-PB-STD-SUR-AN-C</Code>
+                    <Description Language="en-US">Phone Booth, Dark, Consumer</Description>
+                    <Price>
+                        <PriceListRef>P3</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P4</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P5</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P1</PriceListRef>
+                        <Value>6495</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P2</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
+                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
+                </Product>
+                <Product>
+                    <Code>TDS-S-SHIP-MIN</Code>
+                    <Description Language="en-US">Standard Shipping, Minimum</Description>
+                    <Price>
+                        <PriceListRef>P3</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P4</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P5</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P1</PriceListRef>
+                        <Value>500</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P2</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
+                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
+                </Product>
+                <Product>
+                    <Code>TDS-S-SHIP-PB-NA</Code>
+                    <Description Language="en-US">Standard Shipping, Phone Booth</Description>
+                    <Price>
+                        <PriceListRef>P3</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P4</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P5</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P1</PriceListRef>
+                        <Value>500</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P2</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
+                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
+                </Product>
+                <Product>
+                    <Code>TDS-U-ACCESSORY-KIT</Code>
+                    <Description Language="en-US">Accessory Kit</Description>
+                    <Price>
+                        <PriceListRef>P3</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P4</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P5</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P1</PriceListRef>
+                        <Value>125</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P2</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
+                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
+                </Product>
+                <Product>
+                    <Code>TDS-U-STL-DARK</Code>
+                    <Description Language="en-US">Stool, Dark</Description>
+                    <Price>
+                        <PriceListRef>P3</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P4</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P5</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P1</PriceListRef>
+                        <Value>295</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P2</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
+                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
+                </Product>
+                <Product>
+                    <Code>TDS-U-STL-LIGHT</Code>
+                    <Description Language="en-US">Stool, Light</Description>
+                    <Price>
+                        <PriceListRef>P3</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P4</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P5</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P1</PriceListRef>
+                        <Value>295</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P2</PriceListRef>
+                        <Value>0</Value>
+                    </Price>
+                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
+                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
+                </Product>
+                <Product>
                     <Code>TECHNICAL SERVICES-D</Code>
                     <Description Language="en-US">Technical Services</Description>
                     <Price>
@@ -24839,6 +25021,18 @@
                     <UILevel>container</UILevel>
                     <Description Language="en-US">Phone Booth</Description>
                     <ProductRef>
+                        <EnterpriseRef>OFS</EnterpriseRef>
+                        <VendorRef>OFS</VendorRef>
+                        <ProductCode>TDS-PB-STD-SUR-AC-C</ProductCode>
+                        <SelectionDescription Language="en-US">Phone Booth, Light, Consumer</SelectionDescription>
+                    </ProductRef>
+                    <ProductRef>
+                        <EnterpriseRef>OFS</EnterpriseRef>
+                        <VendorRef>OFS</VendorRef>
+                        <ProductCode>TDS-PB-STD-SUR-AN-C</ProductCode>
+                        <SelectionDescription Language="en-US">Phone Booth, Dark, Consumer</SelectionDescription>
+                    </ProductRef>
+                    <ProductRef>
                         <VendorRef>OFS</VendorRef>
                         <ProductCode>R-PHBTH-DARK-AUS</ProductCode>
                         <SelectionDescription Language="en-US">ROOM, Phone Booth,  Dark - Australia, New Zealand</SelectionDescription>
@@ -24927,11 +25121,6 @@
                         <VendorRef>OFS</VendorRef>
                         <ProductCode>ASM-PB-ZONE-B-D-F</ProductCode>
                         <SelectionDescription Language="en-US">Phone Booth Assembly Zones B,D, or F</SelectionDescription>
-                    </ProductRef>
-                    <ProductRef>
-                        <VendorRef>OFS</VendorRef>
-                        <ProductCode>C-PB-LIGHT-STD-NL-NA</ProductCode>
-                        <SelectionDescription Language="en-US">Room, Phone Booth, Light, No Logo</SelectionDescription>
                     </ProductRef>
                     <ProductRef>
                         <VendorRef>OFS</VendorRef>
@@ -25459,6 +25648,12 @@
                     <UniqueCode>0d623363-6fe1-43df-a06e-e4736655c82f</UniqueCode>
                     <UILevel>container</UILevel>
                     <Description Language="en-US">Accessories</Description>
+                    <ProductRef>
+                        <EnterpriseRef>OFS</EnterpriseRef>
+                        <VendorRef>OFS</VendorRef>
+                        <ProductCode>TDS-U-ACCESSORY-KIT</ProductCode>
+                        <SelectionDescription Language="en-US">Accessory Kit</SelectionDescription>
+                    </ProductRef>
                     <ProductRef>
                         <VendorRef>OFS</VendorRef>
                         <ProductCode>Q-PB-FAO-HBS-DK-C</ProductCode>
@@ -27047,6 +27242,18 @@
                     <ProductRef>
                         <EnterpriseRef>OFS</EnterpriseRef>
                         <VendorRef>OFS</VendorRef>
+                        <ProductCode>TDS-U-STL-DARK</ProductCode>
+                        <SelectionDescription Language="en-US">Stool, Dark</SelectionDescription>
+                    </ProductRef>
+                    <ProductRef>
+                        <EnterpriseRef>OFS</EnterpriseRef>
+                        <VendorRef>OFS</VendorRef>
+                        <ProductCode>TDS-U-STL-LIGHT</ProductCode>
+                        <SelectionDescription Language="en-US">Stool, Light</SelectionDescription>
+                    </ProductRef>
+                    <ProductRef>
+                        <EnterpriseRef>OFS</EnterpriseRef>
+                        <VendorRef>OFS</VendorRef>
                         <ProductCode>U-HARPINLB-DARK</ProductCode>
                         <SelectionDescription Language="en-US">Harpin, Dark</SelectionDescription>
                     </ProductRef>
@@ -27481,6 +27688,12 @@
                     <ProductRef>
                         <EnterpriseRef>OFS</EnterpriseRef>
                         <VendorRef>OFS</VendorRef>
+                        <ProductCode>TDS-E-SHIP-PB-ADD-ON</ProductCode>
+                        <SelectionDescription Language="en-US">Expedited Add-On, Two-Day Shipping</SelectionDescription>
+                    </ProductRef>
+                    <ProductRef>
+                        <EnterpriseRef>OFS</EnterpriseRef>
+                        <VendorRef>OFS</VendorRef>
                         <ProductCode>ADD-ON-DEL-ASM-WE-PB</ProductCode>
                         <SelectionDescription Language="en-US">Service Add-On, Delivery &amp; Assembly, Weekend, Phone Booth</SelectionDescription>
                     </ProductRef>
@@ -27520,6 +27733,18 @@
                     <UniqueCode>fdc033a3-bc03-44dc-aa4d-8589ff784b1d</UniqueCode>
                     <UILevel>card</UILevel>
                     <Description Language="en-US">Shipping Minimum</Description>
+                    <ProductRef>
+                        <EnterpriseRef>OFS</EnterpriseRef>
+                        <VendorRef>OFS</VendorRef>
+                        <ProductCode>TDS-S-SHIP-MIN</ProductCode>
+                        <SelectionDescription Language="en-US">Standard Shipping, Minimum</SelectionDescription>
+                    </ProductRef>
+                    <ProductRef>
+                        <EnterpriseRef>OFS</EnterpriseRef>
+                        <VendorRef>OFS</VendorRef>
+                        <ProductCode>TDS-S-SHIP-PB-NA</ProductCode>
+                        <SelectionDescription Language="en-US">Standard Shipping, Phone Booth</SelectionDescription>
+                    </ProductRef>
                     <ProductRef>
                         <EnterpriseRef>OFS</EnterpriseRef>
                         <VendorRef>OFS</VendorRef>
