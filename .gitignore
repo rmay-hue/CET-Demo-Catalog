@@ -10,5 +10,14 @@
 # Keep XML files exactly one folder deep
 !*/*.xml
 
-# Ignore anything deeper
+# Ignore anything 3+ levels deep
 */*/*
+
+# Keep XML files exactly one folder deep
+!*/*.xml
+
+# Keep .cmsym files 2 folders deep
+!*/*/*.cmsym
+
+# Keep .cmsym files 3 folders deep
+!*/*/*/*.cmsym
