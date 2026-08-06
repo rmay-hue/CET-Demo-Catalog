@@ -16,8 +16,3 @@
 # Keep XML files exactly one folder deep
 !*/*.xml
 
-# Keep .cmsym files 2 folders deep
-!*/*/*.cmsym
-
-# Keep .cmsym files 3 folders deep
-!*/*/*/*.cmsym
