@@ -22,7 +22,7 @@
             </Usage>
             <Usage>
                 <Type>CETThumbnailsDir</Type>
-                <OtherType>c:\Configura\Room\Previews\</OtherType>
+                <OtherType>c:\Configura\Room\</OtherType>
             </Usage>
             <Usage>
                 <Type>CETMiscDir</Type>
@@ -19161,6 +19161,343 @@
                                 <Code>aoSeatTask</Code>
                                 <ClassificationRef>
                                     <Code>aoSeatTaskTxt</Code>
+                                </ClassificationRef>
+                            </ClassificationRef>
+                        </ClassificationRef>
+                    </ClassificationRef>
+                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
+                </Product>
+                <Product>
+                    <Code>Q-PB-HTH-STL-AC-D</Code>
+                    <Description Language="en-US">Quickship, ROOM, Phone Booth, Healthcare, Shield Steel, Acorn</Description>
+                    <Price>
+                        <PriceListRef>P3</PriceListRef>
+                        <Value>14863</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P4</PriceListRef>
+                        <Value>14863</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P5</PriceListRef>
+                        <Value>14863</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P1</PriceListRef>
+                        <Value>14863</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P2</PriceListRef>
+                        <Value>14863</Value>
+                    </Price>
+                    <ProductExternalReference>
+                        <ExternalReference>
+                            <FileURI>Previews\PB-HTH-STL-AC-D.png</FileURI>
+                            <Usage>
+                                <Type>NavigationImage</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReference>
+                            <FileURI>reviewed\Phone Booth-HC.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <MaterialApplication>
+                        <MaterialRef>Linen</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-TRWD</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-TPWD1</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-TPWD</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>ROOM Anthracite</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-DRWD</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>FW2</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-DRWD1</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>WHT</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-CVPL</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-LTWT</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>H1F</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-ELPL</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>ION</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-DRBL</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-CVMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-BRBL</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>SLV</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-HWMT</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>BLK</MaterialRef>
+                        <ApplicationAreaRef>AFUPR-3-MSPL</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-GLBl</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-FRBL</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-CVWD</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-VTBL</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-CVFB</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>BWT</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-PNMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-FRMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-DRMT</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>Acorn</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-TPWD2</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-PNWD</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>GWHT - Glass</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-DRGL</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>3066993</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-WLFB</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>Shaw Ambition IV Thunder</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-FLFB</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>antique brass</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-ELMT</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <Measurement>
+                        <Type>depth</Type>
+                        <Unit>in</Unit>
+                        <System>imperial</System>
+                        <Value>44</Value>
+                    </Measurement>
+                    <Measurement>
+                        <Type>width</Type>
+                        <Unit>in</Unit>
+                        <System>imperial</System>
+                        <Value>41.6</Value>
+                    </Measurement>
+                    <Measurement>
+                        <Type>height</Type>
+                        <Unit>in</Unit>
+                        <System>imperial</System>
+                        <Value>88.6</Value>
+                    </Measurement>
+                    <Measurement>
+                        <Type>volume</Type>
+                        <Unit>cufeet</Unit>
+                        <System>imperial</System>
+                        <Value>77</Value>
+                    </Measurement>
+                    <Measurement>
+                        <Type>weight</Type>
+                        <Unit>LBS</Unit>
+                        <System>imperial</System>
+                        <Value>457.5</Value>
+                    </Measurement>
+                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
+                    <Features Sequence="1">
+                        <FeatureRef>Non-Orderdoorposition</FeatureRef>
+                    </Features>
+                    <ClassificationRef>
+                        <Code>aoCasegoods</Code>
+                        <ClassificationRef>
+                            <Code>aoCaseFreeStanding</Code>
+                            <ClassificationRef>
+                                <Code>aoCaseFreeStandingSym</Code>
+                            </ClassificationRef>
+                        </ClassificationRef>
+                    </ClassificationRef>
+                    <ClassificationRef>
+                        <Code>normal</Code>
+                    </ClassificationRef>
+                    <ClassificationRef>
+                        <Code>IndTagCategory</Code>
+                        <ClassificationRef>
+                            <Code>aoCasegoods</Code>
+                            <ClassificationRef>
+                                <Code>aoCaseFreeStanding</Code>
+                                <ClassificationRef>
+                                    <Code>aoCaseFreeStandingTxt</Code>
+                                </ClassificationRef>
+                            </ClassificationRef>
+                        </ClassificationRef>
+                    </ClassificationRef>
+                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
+                </Product>
+                <Product>
+                    <Code>Q-PB-HTH-STL-AN-D</Code>
+                    <Description Language="en-US">Quickship, ROOM, Phone Booth, Healthcare, Shield Steel, Anthracite</Description>
+                    <Price>
+                        <PriceListRef>P3</PriceListRef>
+                        <Value>14863</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P4</PriceListRef>
+                        <Value>14863</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P5</PriceListRef>
+                        <Value>14863</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P1</PriceListRef>
+                        <Value>14863</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P2</PriceListRef>
+                        <Value>14863</Value>
+                    </Price>
+                    <ProductExternalReference>
+                        <ExternalReference>
+                            <FileURI>Previews\PB-HTH-STL-AN-D.png</FileURI>
+                            <Usage>
+                                <Type>NavigationImage</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReference>
+                            <FileURI>reviewed\Phone Booth-HC.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <MaterialApplication>
+                        <MaterialRef>WHT</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-CVPL</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-LTWT</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>H1F</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-ELPL</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>ION</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-DRBL</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-CVMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-BRBL</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>SLV</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-HWMT</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>BLK</MaterialRef>
+                        <ApplicationAreaRef>AFUPR-3-MSPL</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-GLBl</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-FRBL</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-CVWD</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-VTBL</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-CVFB</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>BWT</MaterialRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>GWHT - Glass</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-DRGL</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>3066993</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-WLFB</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>Shaw Ambition IV Thunder</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-FLFB</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>antique brass</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-ELMT</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>FW2</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-DRWD1</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>ROOM Anthracite</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-PNMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-FRMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-DRMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-TPWD2</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-PNWD</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-DRWD</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <MaterialApplication>
+                        <MaterialRef>Linen</MaterialRef>
+                        <ApplicationAreaRef>AFUFR-3-TRWD</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-TPWD1</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUFR-3-TPWD</ApplicationAreaRef>
+                    </MaterialApplication>
+                    <Measurement>
+                        <Type>depth</Type>
+                        <Unit>in</Unit>
+                        <System>imperial</System>
+                        <Value>44</Value>
+                    </Measurement>
+                    <Measurement>
+                        <Type>width</Type>
+                        <Unit>in</Unit>
+                        <System>imperial</System>
+                        <Value>41.6</Value>
+                    </Measurement>
+                    <Measurement>
+                        <Type>height</Type>
+                        <Unit>in</Unit>
+                        <System>imperial</System>
+                        <Value>88.6</Value>
+                    </Measurement>
+                    <Measurement>
+                        <Type>volume</Type>
+                        <Unit>cufeet</Unit>
+                        <System>imperial</System>
+                        <Value>77</Value>
+                    </Measurement>
+                    <Measurement>
+                        <Type>weight</Type>
+                        <Unit>LBS</Unit>
+                        <System>imperial</System>
+                        <Value>457.5</Value>
+                    </Measurement>
+                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
+                    <Features Sequence="1">
+                        <FeatureRef>Non-Orderdoorposition</FeatureRef>
+                    </Features>
+                    <ClassificationRef>
+                        <Code>aoCasegoods</Code>
+                        <ClassificationRef>
+                            <Code>aoCaseFreeStanding</Code>
+                            <ClassificationRef>
+                                <Code>aoCaseFreeStandingSym</Code>
+                            </ClassificationRef>
+                        </ClassificationRef>
+                    </ClassificationRef>
+                    <ClassificationRef>
+                        <Code>normal</Code>
+                    </ClassificationRef>
+                    <ClassificationRef>
+                        <Code>IndTagCategory</Code>
+                        <ClassificationRef>
+                            <Code>aoCasegoods</Code>
+                            <ClassificationRef>
+                                <Code>aoCaseFreeStanding</Code>
+                                <ClassificationRef>
+                                    <Code>aoCaseFreeStandingTxt</Code>
                                 </ClassificationRef>
                             </ClassificationRef>
                         </ClassificationRef>
@@ -55818,12 +56155,12 @@
                         <TableCell>WLS</TableCell>
                     </TableRow>
                     <TableRow>
-                        <TableCell>Monitor</TableCell>
-                        <TableCell>Yes</TableCell>
-                    </TableRow>
-                    <TableRow>
                         <TableCell>MONITOR</TableCell>
                         <TableCell>YES</TableCell>
+                    </TableRow>
+                    <TableRow>
+                        <TableCell>Monitor</TableCell>
+                        <TableCell>Yes</TableCell>
                     </TableRow>
                     <TableRow>
                         <TableCell>RF-Orientation</TableCell>
@@ -55951,7 +56288,7 @@
         <Catalog Sequence="1">
             <Code>ROM</Code>
             <Version>
-                <Code>2026.07.15</Code>
+                <Code>2026.08.12</Code>
             </Version>
             <Description Language="en-US">ROOM</Description>
             <Name Language="en-US">ROOM</Name>
@@ -56950,6 +57287,22 @@
                             <VendorRef>OFS</VendorRef>
                             <ProductCode>Q-PB-STD-SUR-AC-D</ProductCode>
                             <SelectionDescription Language="en-US">Phone Booth, Standard, Surrey, Acorn</SelectionDescription>
+                        </ProductRef>
+                    </Level>
+                    <Level>
+                        <Code>ὸ2</Code>
+                        <UniqueCode>088cb87b-8bc6-492f-8ac6-7894ae617670</UniqueCode>
+                        <UILevel>undefined</UILevel>
+                        <Description Language="en-US">Carolina Phone Booth</Description>
+                        <ProductRef>
+                            <VendorRef>OFS</VendorRef>
+                            <ProductCode>Q-PB-HTH-STL-AC-D</ProductCode>
+                            <SelectionDescription Language="en-US">Quickship, ROOM, Phone Booth, Healthcare, Shield Steel, Acorn</SelectionDescription>
+                        </ProductRef>
+                        <ProductRef>
+                            <VendorRef>OFS</VendorRef>
+                            <ProductCode>Q-PB-HTH-STL-AN-D</ProductCode>
+                            <SelectionDescription Language="en-US">Quickship, ROOM, Phone Booth, Healthcare, Shield Steel, Anthracite</SelectionDescription>
                         </ProductRef>
                     </Level>
                     <Level>

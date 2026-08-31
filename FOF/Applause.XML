@@ -15024,7 +15024,7 @@
                     <Option Sequence="2">
                         <Code>ASK</Code>
                         <UndefinedSelection>0</UndefinedSelection>
-                        <Description Language="en-US">Deuce Static Base Kit (qty. 1) Power cutout will be centered</Description>
+                        <Description Language="en-US">Discontinued - Please use ASKW</Description>
                         <Features Sequence="1">
                             <FeatureRef>DEUCE1-CF-ASK</FeatureRef>
                         </Features>
@@ -15145,7 +15145,7 @@
                     </Option>
                     <Option Sequence="2">
                         <Code>ASK</Code>
-                        <Description Language="en-US">Deuce Static Base Kit (qty. 1)</Description>
+                        <Description Language="en-US">Discontinued - Please use ASKW</Description>
                         <Features Sequence="1">
                             <FeatureRef>DEUCE1-CF-ASK</FeatureRef>
                         </Features>
@@ -15289,7 +15289,7 @@
                     <Option Sequence="2">
                         <Code>ASK</Code>
                         <UndefinedSelection>0</UndefinedSelection>
-                        <Description Language="en-US">Deuce Static Base Kit (qty. 1) Power cutout will be centered</Description>
+                        <Description Language="en-US">Discontinued - Please use ASKW</Description>
                         <Features Sequence="1">
                             <FeatureRef>DEUCE1-CF-ASK</FeatureRef>
                         </Features>
@@ -15410,7 +15410,7 @@
                     </Option>
                     <Option Sequence="2">
                         <Code>ASK</Code>
-                        <Description Language="en-US">Deuce Static Base Kit (qty. 1)</Description>
+                        <Description Language="en-US">Discontinued - Please use ASKW</Description>
                         <Features Sequence="1">
                             <FeatureRef>DEUCE1-CF-ASK</FeatureRef>
                         </Features>
@@ -15554,7 +15554,7 @@
                     <Option Sequence="2">
                         <Code>ASK</Code>
                         <UndefinedSelection>0</UndefinedSelection>
-                        <Description Language="en-US">Deuce Static Base Kit (qty. 1) Power cutout will be centered</Description>
+                        <Description Language="en-US">Discontinued - Please use ASKW</Description>
                         <Features Sequence="1">
                             <FeatureRef>DEUCE1-CF-ASK</FeatureRef>
                         </Features>
@@ -15675,7 +15675,7 @@
                     </Option>
                     <Option Sequence="2">
                         <Code>ASK</Code>
-                        <Description Language="en-US">Deuce Static Base Kit (qty. 1)</Description>
+                        <Description Language="en-US">Discontinued - Please use ASKW</Description>
                         <Features Sequence="1">
                             <FeatureRef>DEUCE1-CF-ASK</FeatureRef>
                         </Features>
@@ -56553,7 +56553,7 @@
                     <Option Sequence="2">
                         <Code>ASK</Code>
                         <UndefinedSelection>0</UndefinedSelection>
-                        <Description Language="en-US">Deuce Static Base Kit (qty. 1) Power cutout will be centered</Description>
+                        <Description Language="en-US">Discontinued - Please use ASKW</Description>
                         <Features Sequence="1">
                             <FeatureRef>DEUCE1-CF-ASK</FeatureRef>
                         </Features>
@@ -56674,7 +56674,7 @@
                     </Option>
                     <Option Sequence="2">
                         <Code>ASK</Code>
-                        <Description Language="en-US">Deuce Static Base Kit (qty. 1)</Description>
+                        <Description Language="en-US">Discontinued - Please use ASKW</Description>
                         <Features Sequence="1">
                             <FeatureRef>DEUCE1-CF-ASK</FeatureRef>
                         </Features>
@@ -221504,12 +221504,6 @@
                         </Level>
                     </Level>
                     <Level>
-                        <Code>24</Code>
-                        <UniqueCode>ba48c7bb-a741-4df5-bbaa-3a97475ea43f</UniqueCode>
-                        <UILevel>undefined</UILevel>
-                        <Description Language="en-US">Tables - Pin Set Adjustable Height</Description>
-                    </Level>
-                    <Level>
                         <Code>31</Code>
                         <UniqueCode>38575709-a3c4-49b1-bb0e-497916ae15a6</UniqueCode>
                         <UILevel>undefined</UILevel>
@@ -222547,12 +222541,6 @@
                             </Level>
                         </Level>
                         <Level>
-                            <Code>82</Code>
-                            <UniqueCode>130ca2bd-470e-4ada-8910-f18ed309519e</UniqueCode>
-                            <UILevel>undefined</UILevel>
-                            <Description Language="en-US">Bases for Conference Tops</Description>
-                        </Level>
-                        <Level>
                             <Code>86</Code>
                             <UniqueCode>b48e8182-e716-43e1-ac12-5387f8cc690a</UniqueCode>
                             <UILevel>undefined</UILevel>
@@ -222569,12 +222557,6 @@
                                     <SelectionDescription Language="en-US">Orb Leg Base with 2&quot; Columns (set of 4)</SelectionDescription>
                                 </ProductRef>
                             </Level>
-                        </Level>
-                        <Level>
-                            <Code>90</Code>
-                            <UniqueCode>24c9b581-72f1-41e9-82da-8f9446012f6d</UniqueCode>
-                            <UILevel>undefined</UILevel>
-                            <Description Language="en-US">Bases for Group Top</Description>
                         </Level>
                         <Level>
                             <Code>94</Code>
@@ -222615,12 +222597,6 @@
                                     <VendorRef>OFS</VendorRef>
                                     <ProductCode>HA4820CP</ProductCode>
                                     <SelectionDescription Language="en-US">40.4x18 Pneumatic Center Column Base Kit for 48x20 rect</SelectionDescription>
-                                </ProductRef>
-                                <ProductRef>
-                                    <EnterpriseRef>OFS</EnterpriseRef>
-                                    <VendorRef>OFS</VendorRef>
-                                    <ProductCode>HA4824CP</ProductCode>
-                                    <SelectionDescription Language="en-US">40.4x22 Pneumatic Center Column Base Kit for 48x24 rect</SelectionDescription>
                                 </ProductRef>
                                 <ProductRef>
                                     <EnterpriseRef>OFS</EnterpriseRef>
@@ -223031,12 +223007,6 @@
                                 <ProductCode>Q-A7230R</ProductCode>
                                 <SelectionDescription Language="en-US">Quickship, Applause 72x30 Rectangle Top</SelectionDescription>
                             </ProductRef>
-                        </Level>
-                        <Level>
-                            <Code>ὸ2</Code>
-                            <UniqueCode>ed8d5adb-bdff-40c8-9dc6-f8eae2fc80e6</UniqueCode>
-                            <UILevel>container</UILevel>
-                            <Description Language="en-US">Power and Data</Description>
                         </Level>
                         <Level>
                             <Code>ὸ1</Code>

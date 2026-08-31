@@ -13387,6 +13387,28 @@
                 </MaterialExternalReference>
             </Material>
             <Material>
+                <Code>3135032</Code>
+                <Description Language="en-US">Pewter</Description>
+                <MaterialExternalReference>
+                    <FileURI>OFS Fabrics\Prime\3135032.gm</FileURI>
+                    <Usage>
+                        <Type>SwatchImage</Type>
+                        <Quality>Medium</Quality>
+                    </Usage>
+                </MaterialExternalReference>
+            </Material>
+            <Material>
+                <Code>3135033</Code>
+                <Description Language="en-US">Pebble</Description>
+                <MaterialExternalReference>
+                    <FileURI>OFS Fabrics\Prime\3135033.gm</FileURI>
+                    <Usage>
+                        <Type>SwatchImage</Type>
+                        <Quality>Medium</Quality>
+                    </Usage>
+                </MaterialExternalReference>
+            </Material>
+            <Material>
                 <Code>3135056</Code>
                 <Description Language="en-US">Olive</Description>
                 <MaterialExternalReference>
@@ -13787,6 +13809,50 @@
                 <Description Language="en-US">Ritz</Description>
                 <MaterialExternalReference>
                     <FileURI>OFS Fabrics\Gatsby\3136389.gm</FileURI>
+                    <Usage>
+                        <Type>SwatchImage</Type>
+                        <Quality>Medium</Quality>
+                    </Usage>
+                </MaterialExternalReference>
+            </Material>
+            <Material>
+                <Code>3136413</Code>
+                <Description Language="en-US">Clay</Description>
+                <MaterialExternalReference>
+                    <FileURI>OFS Fabrics\Prime\3136413.gm</FileURI>
+                    <Usage>
+                        <Type>SwatchImage</Type>
+                        <Quality>Medium</Quality>
+                    </Usage>
+                </MaterialExternalReference>
+            </Material>
+            <Material>
+                <Code>3136414</Code>
+                <Description Language="en-US">Obsidian</Description>
+                <MaterialExternalReference>
+                    <FileURI>OFS Fabrics\Prime\3136414.gm</FileURI>
+                    <Usage>
+                        <Type>SwatchImage</Type>
+                        <Quality>Medium</Quality>
+                    </Usage>
+                </MaterialExternalReference>
+            </Material>
+            <Material>
+                <Code>3136415</Code>
+                <Description Language="en-US">Tungsten</Description>
+                <MaterialExternalReference>
+                    <FileURI>OFS Fabrics\Prime\3136415.gm</FileURI>
+                    <Usage>
+                        <Type>SwatchImage</Type>
+                        <Quality>Medium</Quality>
+                    </Usage>
+                </MaterialExternalReference>
+            </Material>
+            <Material>
+                <Code>3136416</Code>
+                <Description Language="en-US">Quartz</Description>
+                <MaterialExternalReference>
+                    <FileURI>OFS Fabrics\Prime\3136416.gm</FileURI>
                     <Usage>
                         <Type>SwatchImage</Type>
                         <Quality>Medium</Quality>
@@ -15803,6 +15869,7 @@
             <ApplicationArea>
                 <Code>Satin Nickel</Code>
                 <SurfaceIdentifier>AFUPO-3-BRSN</SurfaceIdentifier>
+                <SurfaceIdentifier>AFUPO-3-BKMT</SurfaceIdentifier>
                 <MaterialRef>MSL</MaterialRef>
             </ApplicationArea>
             <ApplicationArea>
@@ -55289,7 +55356,7 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
@@ -55452,6 +55519,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -55555,33 +55625,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>150</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>150</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>150</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>154</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>154</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -55606,6 +55649,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>59</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>150</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>150</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>150</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>154</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>154</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -55810,7 +55880,7 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
@@ -55973,6 +56043,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -56076,33 +56149,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>175</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>175</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>175</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>180</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>180</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -56127,6 +56173,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>69</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>175</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>175</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>175</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>180</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>180</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -56331,7 +56404,7 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
@@ -56494,6 +56567,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -56597,33 +56673,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>100</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>100</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>100</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>103</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>103</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -56648,6 +56697,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>39</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>100</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>100</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>100</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>103</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>103</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -56852,7 +56928,7 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
@@ -57015,6 +57091,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -57118,33 +57197,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>225</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>225</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>225</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>231</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>231</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -57169,6 +57221,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>89</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>225</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>225</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>225</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>231</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>231</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -57373,7 +57452,7 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
@@ -57536,6 +57615,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -57639,33 +57721,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>250</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>250</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>250</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>257</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>257</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -57690,6 +57745,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>99</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>250</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>250</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>250</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>257</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>257</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -57894,7 +57976,7 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
@@ -58057,6 +58139,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -58160,33 +58245,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>275</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>275</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>275</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>282</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>282</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -58211,6 +58269,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>109</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>275</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>275</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>275</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>282</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>282</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -58415,7 +58500,7 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
@@ -58578,6 +58663,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -58681,33 +58769,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>200</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>200</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>200</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>205</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>205</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -58732,6 +58793,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>79</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>200</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>200</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>200</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>205</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>205</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -58936,7 +59024,7 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
@@ -59099,6 +59187,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -59202,33 +59293,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>325</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>325</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>325</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>333</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>333</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -59253,6 +59317,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>128</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>325</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>325</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>325</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>333</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>333</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -59457,7 +59548,7 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
@@ -59620,6 +59711,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -59723,33 +59817,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>350</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>350</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>350</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>359</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>359</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -59774,6 +59841,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>138</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>350</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>350</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>350</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>359</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>359</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -59978,7 +60072,7 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
@@ -60141,6 +60235,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -60244,33 +60341,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>300</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>300</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>300</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>308</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>308</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -60295,6 +60365,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>118</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>300</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>300</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>300</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>308</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>308</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -62374,6 +62471,179 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>OFS-Prime</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Fabric Color, OFS Prime</Description>
+                    <GroupCode>OFS</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>3135032</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>3135032</Code>
+                        <Description Language="en-US">Pewter</Description>
+                        <MaterialApplication>
+                            <MaterialRef>3135032</MaterialRef>
+                        </MaterialApplication>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="2">
+                        <Code>3135033</Code>
+                        <Description Language="en-US">Pebble</Description>
+                        <MaterialApplication>
+                            <MaterialRef>3135033</MaterialRef>
+                        </MaterialApplication>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="3">
+                        <Code>3136416</Code>
+                        <Description Language="en-US">Quartz</Description>
+                        <MaterialApplication>
+                            <MaterialRef>3136416</MaterialRef>
+                        </MaterialApplication>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="4">
+                        <Code>3136414</Code>
+                        <Description Language="en-US">Obsidian</Description>
+                        <MaterialApplication>
+                            <MaterialRef>3136414</MaterialRef>
+                        </MaterialApplication>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="5">
+                        <Code>3136415</Code>
+                        <Description Language="en-US">Tungsten</Description>
+                        <MaterialApplication>
+                            <MaterialRef>3136415</MaterialRef>
+                        </MaterialApplication>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="6">
+                        <Code>3136413</Code>
+                        <Description Language="en-US">Clay</Description>
+                        <MaterialApplication>
+                            <MaterialRef>3136413</MaterialRef>
+                        </MaterialApplication>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>OFS-ROAM</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -63392,6 +63662,10 @@
                     <Option Sequence="1">
                         <Code>NP</Code>
                         <Description Language="en-US">No Power</Description>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>None</Value>
+                        </ExternalReferenceKey>
                     </Option>
                     <Option Sequence="2">
                         <Code>N5E</Code>
@@ -63416,6 +63690,10 @@
                             <PriceListRef>P1</PriceListRef>
                             <Value>203</Value>
                         </OptionPrice>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>5 Wire</Value>
+                        </ExternalReferenceKey>
                     </Option>
                     <Option Sequence="3">
                         <Code>N5F</Code>
@@ -63440,6 +63718,10 @@
                             <PriceListRef>P1</PriceListRef>
                             <Value>307</Value>
                         </OptionPrice>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>8 Wire</Value>
+                        </ExternalReferenceKey>
                     </Option>
                     <Option Sequence="4">
                         <Code>N5G</Code>
@@ -63464,6 +63746,10 @@
                             <PriceListRef>P1</PriceListRef>
                             <Value>297</Value>
                         </OptionPrice>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>CC</Value>
+                        </ExternalReferenceKey>
                     </Option>
                 </Feature>
                 <Feature>
@@ -69552,7 +69838,7 @@
                     </Option>
                     <Option Sequence="7">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>Q-OFS-JOVY</FeatureRef>
                         </Features>
@@ -69968,7 +70254,7 @@
                     </Option>
                     <Option Sequence="7">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>Q-OFS-JOVY</FeatureRef>
                         </Features>
@@ -70384,7 +70670,7 @@
                     </Option>
                     <Option Sequence="7">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>Q-OFS-JOVY</FeatureRef>
                         </Features>
@@ -70800,7 +71086,7 @@
                     </Option>
                     <Option Sequence="7">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>Q-OFS-JOVY</FeatureRef>
                         </Features>
@@ -71216,7 +71502,7 @@
                     </Option>
                     <Option Sequence="7">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>Q-OFS-JOVY</FeatureRef>
                         </Features>
@@ -71632,7 +71918,7 @@
                     </Option>
                     <Option Sequence="7">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>Q-OFS-JOVY</FeatureRef>
                         </Features>
@@ -72048,7 +72334,7 @@
                     </Option>
                     <Option Sequence="7">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>Q-OFS-JOVY</FeatureRef>
                         </Features>
@@ -72464,7 +72750,7 @@
                     </Option>
                     <Option Sequence="7">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>Q-OFS-JOVY</FeatureRef>
                         </Features>
@@ -72880,7 +73166,7 @@
                     </Option>
                     <Option Sequence="7">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>Q-OFS-JOVY</FeatureRef>
                         </Features>
@@ -75398,6 +75684,10 @@
                     <Option Sequence="1">
                         <Code>NP</Code>
                         <Description Language="en-US">No Power</Description>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>None</Value>
+                        </ExternalReferenceKey>
                     </Option>
                     <Option Sequence="2">
                         <Code>N5E</Code>
@@ -75422,6 +75712,10 @@
                             <PriceListRef>P1</PriceListRef>
                             <Value>203</Value>
                         </OptionPrice>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>5 Wire</Value>
+                        </ExternalReferenceKey>
                     </Option>
                     <Option Sequence="3">
                         <Code>N5F</Code>
@@ -75446,6 +75740,10 @@
                             <PriceListRef>P1</PriceListRef>
                             <Value>307</Value>
                         </OptionPrice>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>8 Wire</Value>
+                        </ExternalReferenceKey>
                     </Option>
                 </Feature>
                 <Feature>
@@ -105995,6 +106293,45 @@
                         <Value>334</Value>
                     </Price>
                     <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>5 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-54CC-5wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>8 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-54CC-8wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>CC</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-54CC-CC.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
                         <ExternalReference>
                             <FileURI>HB-54CC.png</FileURI>
                             <Usage>
@@ -106004,6 +106341,10 @@
                         </ExternalReference>
                     </ProductExternalReference>
                     <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>None</Value>
+                        </ExternalReferenceKey>
                         <ExternalReference>
                             <FileURI>reviewed\HB-54CC.cmsym</FileURI>
                             <Usage>
@@ -106013,6 +106354,11 @@
                             </Usage>
                         </ExternalReference>
                     </ProductExternalReference>
+                    <MaterialApplication>
+                        <MaterialRef>Black Plastic</MaterialRef>
+                        <ApplicationAreaRef>AFUPO-3-ELMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUPO-3-ELPL</ApplicationAreaRef>
+                    </MaterialApplication>
                     <Measurement>
                         <Type>width</Type>
                         <Unit>IN</Unit>
@@ -111887,6 +112233,45 @@
                         <Value>383</Value>
                     </Price>
                     <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>CC</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-60CC-CC.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>8 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-60CC-8wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>5 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-60CC-5wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
                         <ExternalReference>
                             <FileURI>HB-60CC.png</FileURI>
                             <Usage>
@@ -111896,6 +112281,10 @@
                         </ExternalReference>
                     </ProductExternalReference>
                     <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>None</Value>
+                        </ExternalReferenceKey>
                         <ExternalReference>
                             <FileURI>reviewed\HB-60CC.cmsym</FileURI>
                             <Usage>
@@ -111905,6 +112294,11 @@
                             </Usage>
                         </ExternalReference>
                     </ProductExternalReference>
+                    <MaterialApplication>
+                        <MaterialRef>Black Plastic</MaterialRef>
+                        <ApplicationAreaRef>AFUPO-3-ELMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUPO-3-ELPL</ApplicationAreaRef>
+                    </MaterialApplication>
                     <Measurement>
                         <Type>width</Type>
                         <Unit>IN</Unit>
@@ -116261,6 +116655,45 @@
                         <Value>433</Value>
                     </Price>
                     <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>CC</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-66CC-CC.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>8 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-66CC-8wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>5 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-66CC-5wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
                         <ExternalReference>
                             <FileURI>HB-66CC.png</FileURI>
                             <Usage>
@@ -116270,6 +116703,10 @@
                         </ExternalReference>
                     </ProductExternalReference>
                     <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>None</Value>
+                        </ExternalReferenceKey>
                         <ExternalReference>
                             <FileURI>reviewed\HB-66CC.cmsym</FileURI>
                             <Usage>
@@ -116279,6 +116716,11 @@
                             </Usage>
                         </ExternalReference>
                     </ProductExternalReference>
+                    <MaterialApplication>
+                        <MaterialRef>Black Plastic</MaterialRef>
+                        <ApplicationAreaRef>AFUPO-3-ELMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUPO-3-ELPL</ApplicationAreaRef>
+                    </MaterialApplication>
                     <Measurement>
                         <Type>width</Type>
                         <Unit>IN</Unit>
@@ -119538,6 +119980,45 @@
                         <Value>491</Value>
                     </Price>
                     <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>CC</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-72CC-CC.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>8 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-72CC-8wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>5 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-72CC-5wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
                         <ExternalReference>
                             <FileURI>HB-72CC.png</FileURI>
                             <Usage>
@@ -119547,6 +120028,10 @@
                         </ExternalReference>
                     </ProductExternalReference>
                     <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>None</Value>
+                        </ExternalReferenceKey>
                         <ExternalReference>
                             <FileURI>reviewed\HB-72CC.cmsym</FileURI>
                             <Usage>
@@ -119556,6 +120041,11 @@
                             </Usage>
                         </ExternalReference>
                     </ProductExternalReference>
+                    <MaterialApplication>
+                        <MaterialRef>Black Plastic</MaterialRef>
+                        <ApplicationAreaRef>AFUPO-3-ELMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUPO-3-ELPL</ApplicationAreaRef>
+                    </MaterialApplication>
                     <Measurement>
                         <Type>width</Type>
                         <Unit>IN</Unit>
@@ -143325,6 +143815,49 @@
                         </ExternalReference>
                     </ProductExternalReference>
                     <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>5 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-54CC-5wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>8 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-54CC-8wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>CC</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-54CC-CC.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>None</Value>
+                        </ExternalReferenceKey>
                         <ExternalReference>
                             <FileURI>reviewed\HB-54CC.cmsym</FileURI>
                             <Usage>
@@ -143334,6 +143867,11 @@
                             </Usage>
                         </ExternalReference>
                     </ProductExternalReference>
+                    <MaterialApplication>
+                        <MaterialRef>Black Plastic</MaterialRef>
+                        <ApplicationAreaRef>AFUPO-3-ELMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUPO-3-ELPL</ApplicationAreaRef>
+                    </MaterialApplication>
                     <Measurement>
                         <Type>width</Type>
                         <Unit>IN</Unit>
@@ -146975,6 +147513,49 @@
                         </ExternalReference>
                     </ProductExternalReference>
                     <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>CC</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-60CC-CC.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>8 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-60CC-8wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>5 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-60CC-5wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>None</Value>
+                        </ExternalReferenceKey>
                         <ExternalReference>
                             <FileURI>reviewed\HB-60CC.cmsym</FileURI>
                             <Usage>
@@ -146984,6 +147565,11 @@
                             </Usage>
                         </ExternalReference>
                     </ProductExternalReference>
+                    <MaterialApplication>
+                        <MaterialRef>Black Plastic</MaterialRef>
+                        <ApplicationAreaRef>AFUPO-3-ELMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUPO-3-ELPL</ApplicationAreaRef>
+                    </MaterialApplication>
                     <Measurement>
                         <Type>width</Type>
                         <Unit>IN</Unit>
@@ -149869,6 +150455,49 @@
                         </ExternalReference>
                     </ProductExternalReference>
                     <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>CC</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-66C-CC.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>8 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-66CC-8wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>5 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-66CC-5wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>None</Value>
+                        </ExternalReferenceKey>
                         <ExternalReference>
                             <FileURI>reviewed\HB-66CC.cmsym</FileURI>
                             <Usage>
@@ -149878,6 +150507,11 @@
                             </Usage>
                         </ExternalReference>
                     </ProductExternalReference>
+                    <MaterialApplication>
+                        <MaterialRef>Black Plastic</MaterialRef>
+                        <ApplicationAreaRef>AFUPO-3-ELMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUPO-3-ELPL</ApplicationAreaRef>
+                    </MaterialApplication>
                     <Measurement>
                         <Type>width</Type>
                         <Unit>IN</Unit>
@@ -152746,6 +153380,49 @@
                         </ExternalReference>
                     </ProductExternalReference>
                     <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>CC</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-72CC-CC.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>8 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-72CC-8wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>5 Wire</Value>
+                        </ExternalReferenceKey>
+                        <ExternalReference>
+                            <FileURI>reviewed\HB-72CC-5wire.cmsym</FileURI>
+                            <Usage>
+                                <Type>3DAndPlanView</Type>
+                                <Quality>Medium</Quality>
+                            </Usage>
+                        </ExternalReference>
+                    </ProductExternalReference>
+                    <ProductExternalReference>
+                        <ExternalReferenceKey>
+                            <Type>Power</Type>
+                            <Value>None</Value>
+                        </ExternalReferenceKey>
                         <ExternalReference>
                             <FileURI>reviewed\HB-72CC.cmsym</FileURI>
                             <Usage>
@@ -152755,6 +153432,11 @@
                             </Usage>
                         </ExternalReference>
                     </ProductExternalReference>
+                    <MaterialApplication>
+                        <MaterialRef>Black Plastic</MaterialRef>
+                        <ApplicationAreaRef>AFUPO-3-ELMT</ApplicationAreaRef>
+                        <ApplicationAreaRef>AFUPO-3-ELPL</ApplicationAreaRef>
+                    </MaterialApplication>
                     <Measurement>
                         <Type>width</Type>
                         <Unit>IN</Unit>
@@ -159986,13 +160668,29 @@
                         <TableCell>Caster</TableCell>
                         <TableCell>X9</TableCell>
                     </TableRow>
+                    <TableRow>
+                        <TableCell>Power</TableCell>
+                        <TableCell>5 Wire</TableCell>
+                    </TableRow>
+                    <TableRow>
+                        <TableCell>Power</TableCell>
+                        <TableCell>8 Wire</TableCell>
+                    </TableRow>
+                    <TableRow>
+                        <TableCell>Power</TableCell>
+                        <TableCell>CC</TableCell>
+                    </TableRow>
+                    <TableRow>
+                        <TableCell>Power</TableCell>
+                        <TableCell>None</TableCell>
+                    </TableRow>
                 </Table>
             </Vendor>
         </Enterprise>
         <Catalog Sequence="1">
             <Code>RNG</Code>
             <Version>
-                <Code>2026.07.29</Code>
+                <Code>2026.08.26</Code>
             </Version>
             <Description Language="en-US">Range - Open Plan</Description>
             <Name Language="en-US">Range - Open Plan</Name>

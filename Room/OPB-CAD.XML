@@ -5653,6 +5653,32 @@
                     <ProductPropertyVisibility>1</ProductPropertyVisibility>
                 </Product>
                 <Product>
+                    <Code>PB-STD-SUR-AC-C</Code>
+                    <Description Language="en-US">Phone Booth, Standard, Surrey, Acorn</Description>
+                    <Price>
+                        <PriceListRef>P4</PriceListRef>
+                        <Value>5995</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P3</PriceListRef>
+                        <Value>5995</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P2</PriceListRef>
+                        <Value>6295</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P1</PriceListRef>
+                        <Value>6495</Value>
+                    </Price>
+                    <Price>
+                        <PriceListRef>P5</PriceListRef>
+                        <Value>5995</Value>
+                    </Price>
+                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
+                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
+                </Product>
+                <Product>
                     <Code>Q-U-ACCESSORY-KIT-C</Code>
                     <Description Language="en-US">Accessory Kit (PB)</Description>
                     <Price>
@@ -19446,6 +19472,11 @@
                         <UniqueCode>1e1b6377-38fc-4076-a610-4a3501100183</UniqueCode>
                         <UILevel>container</UILevel>
                         <Description Language="en-US">Phone Booth</Description>
+                        <ProductRef>
+                            <VendorRef>OFS</VendorRef>
+                            <ProductCode>PB-STD-SUR-AC-C</ProductCode>
+                            <SelectionDescription Language="en-US">Phone Booth, Standard, Surrey, Acorn</SelectionDescription>
+                        </ProductRef>
                         <ProductRef>
                             <EnterpriseRef>OFS</EnterpriseRef>
                             <VendorRef>OFS</VendorRef>

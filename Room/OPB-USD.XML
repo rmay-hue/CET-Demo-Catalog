@@ -6143,23 +6143,23 @@
                     <Description Language="en-US">Phone Booth, Healthcare, Shield Steel, Acorn</Description>
                     <Price>
                         <PriceListRef>P3</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P4</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P5</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P1</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P2</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Measurement>
                         <Type>width</Type>
@@ -6199,23 +6199,23 @@
                     <Description Language="en-US">Phone Booth, Healthcare, Shield Steel, Acorn</Description>
                     <Price>
                         <PriceListRef>P3</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P4</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P5</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P1</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P2</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Measurement>
                         <Type>width</Type>
@@ -6255,23 +6255,23 @@
                     <Description Language="en-US">Phone Booth, Healthcare, Shield Steel, Anthracite</Description>
                     <Price>
                         <PriceListRef>P3</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P4</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P5</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P1</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P2</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Measurement>
                         <Type>width</Type>
@@ -6311,23 +6311,23 @@
                     <Description Language="en-US">Phone Booth, Healthcare, Shield Steel, Anthracite</Description>
                     <Price>
                         <PriceListRef>P3</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P4</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P5</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P1</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Price>
                         <PriceListRef>P2</PriceListRef>
-                        <Value>0</Value>
+                        <Value>1</Value>
                     </Price>
                     <Measurement>
                         <Type>width</Type>

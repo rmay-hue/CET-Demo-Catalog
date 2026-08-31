@@ -17672,7 +17672,7 @@
                     </Price>
                     <Price>
                         <PriceListRef>P1</PriceListRef>
-                        <Value>2825</Value>
+                        <Value>3545</Value>
                     </Price>
                     <ProductExternalReference>
                         <ExternalReference>
@@ -18967,7 +18967,7 @@
                     </Price>
                     <Price>
                         <PriceListRef>P1</PriceListRef>
-                        <Value>2525</Value>
+                        <Value>3245</Value>
                     </Price>
                     <ProductExternalReference>
                         <ExternalReference>
@@ -100329,7 +100329,7 @@
         <Catalog Sequence="1">
             <Code>OME</Code>
             <Version>
-                <Code>2026.02.02</Code>
+                <Code>2026.08.12</Code>
             </Version>
             <Description Language="en-US">Meeting Room – Tables</Description>
             <Name Language="en-US">Meeting Room – Tables</Name>

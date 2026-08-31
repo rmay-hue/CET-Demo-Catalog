@@ -4135,84 +4135,6 @@
                     </Option>
                 </Feature>
                 <Feature>
-                    <Code>Q-BASE-COL-BSW-new</Code>
-                    <DecimalPlaces>2</DecimalPlaces>
-                    <DataType>Character</DataType>
-                    <Description Language="en-US">Base Finish</Description>
-                    <GroupCode>Base Color</GroupCode>
-                    <MaterialApplication>
-                        <ApplicationAreaRef>AFUTL-3-CTMT1</ApplicationAreaRef>
-                        <ApplicationAreaRef>AFUTL-3-RLMT</ApplicationAreaRef>
-                        <ApplicationAreaRef>AFUTL-3-BTMT</ApplicationAreaRef>
-                        <ApplicationAreaRef>AFUTL-3-BTMT1</ApplicationAreaRef>
-                        <ApplicationAreaRef>AFUTL-3-LGMT3</ApplicationAreaRef>
-                        <ApplicationAreaRef>AFUTL-3-LGMT2</ApplicationAreaRef>
-                        <ApplicationAreaRef>AFUTL-3-CTMT</ApplicationAreaRef>
-                        <ApplicationAreaRef>AFUTL-3-LGMT1</ApplicationAreaRef>
-                        <ApplicationAreaRef>AFUTL-3-LGMT</ApplicationAreaRef>
-                    </MaterialApplication>
-                    <InvOptsVisibility>0</InvOptsVisibility>
-                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
-                    <SyncOptionDirection>0</SyncOptionDirection>
-                    <DefaultOptionRef>~PWD</DefaultOptionRef>
-                    <Option Sequence="1">
-                        <Code>~PWD</Code>
-                        <UndefinedSelection>1</UndefinedSelection>
-                        <Description Language="en-US">Undecided</Description>
-                        <MaterialApplication>
-                            <MaterialRef>Satin Nickel</MaterialRef>
-                        </MaterialApplication>
-                    </Option>
-                    <Option Sequence="2">
-                        <Code>H7B</Code>
-                        <Description Language="en-US">Black</Description>
-                        <MaterialApplication>
-                            <MaterialRef>BKO</MaterialRef>
-                        </MaterialApplication>
-                    </Option>
-                    <Option Sequence="3">
-                        <Code>H7G</Code>
-                        <Description Language="en-US">Grey</Description>
-                        <MaterialApplication>
-                            <MaterialRef>MSL Luster Grey</MaterialRef>
-                        </MaterialApplication>
-                    </Option>
-                </Feature>
-                <Feature>
-                    <Code>Q-base-foot-new</Code>
-                    <DecimalPlaces>2</DecimalPlaces>
-                    <DataType>Character</DataType>
-                    <Description Language="en-US">Base Foot Style</Description>
-                    <GroupCode>Foot Style</GroupCode>
-                    <InvOptsVisibility>0</InvOptsVisibility>
-                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
-                    <SyncOptionDirection>0</SyncOptionDirection>
-                    <DefaultOptionRef>TGK</DefaultOptionRef>
-                    <Option Sequence="1">
-                        <Code>TGK</Code>
-                        <Description Language="en-US">Tubular Glide</Description>
-                        <ExternalReferenceKey>
-                            <Type>FOOT</Type>
-                            <Value>C3W</Value>
-                        </ExternalReferenceKey>
-                    </Option>
-                </Feature>
-                <Feature>
-                    <Code>Q-control-new</Code>
-                    <DecimalPlaces>2</DecimalPlaces>
-                    <DataType>Character</DataType>
-                    <Description Language="en-US">Control Panel</Description>
-                    <GroupCode>Control</GroupCode>
-                    <InvOptsVisibility>0</InvOptsVisibility>
-                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
-                    <SyncOptionDirection>0</SyncOptionDirection>
-                    <DefaultOptionRef>K4S</DefaultOptionRef>
-                    <Option Sequence="1">
-                        <Code>K4S</Code>
-                        <Description Language="en-US">Standard Switch</Description>
-                    </Option>
-                </Feature>
-                <Feature>
                     <Code>TB-BASE-FIN</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -13097,44 +13019,6 @@
                     </Option>
                 </Feature>
                 <Feature>
-                    <Code>TB-G-PWR-2-FIN-X9/U</Code>
-                    <DecimalPlaces>2</DecimalPlaces>
-                    <DataType>Character</DataType>
-                    <Description Language="en-US">Power Supply 2 Finish</Description>
-                    <GroupCode>PowerFinish2</GroupCode>
-                    <InvOptsVisibility>0</InvOptsVisibility>
-                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
-                    <SyncOptionDirection>0</SyncOptionDirection>
-                    <DefaultOptionRef>X9</DefaultOptionRef>
-                    <Option Sequence="1">
-                        <Code>X9</Code>
-                        <Description Language="en-US">No Selection</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>TB-G-PWR-2-FIN-AC-X9/S</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>0</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>0</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>0</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>0</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>0</Value>
-                        </OptionPrice>
-                    </Option>
-                </Feature>
-                <Feature>
                     <Code>TB-G-PWR-2-FIN/S</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -20780,10 +20664,6 @@
                         <Features Sequence="1">
                             <FeatureRef>TOP-EDG-PLYWD</FeatureRef>
                         </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>1</Value>
-                        </OptionPrice>
                     </Option>
                     <Option Sequence="3">
                         <Code>DST-Q</Code>
@@ -20794,10 +20674,6 @@
                         <Features Sequence="1">
                             <FeatureRef>TOP-EDG-PLYWD</FeatureRef>
                         </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>1</Value>
-                        </OptionPrice>
                     </Option>
                     <Option Sequence="4">
                         <Code>OSL-Q</Code>
@@ -20808,10 +20684,6 @@
                         <Features Sequence="1">
                             <FeatureRef>TOP-EDG-PLYWD</FeatureRef>
                         </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>1</Value>
-                        </OptionPrice>
                     </Option>
                     <Option Sequence="5">
                         <Code>SVC-Q</Code>
@@ -20841,10 +20713,6 @@
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <ProductPriceRef>Studio Ven</ProductPriceRef>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>1</Value>
                         </OptionPrice>
                     </Option>
                     <Option Sequence="6">
@@ -20876,10 +20744,6 @@
                             <PriceListRef>P5</PriceListRef>
                             <ProductPriceRef>Studio Ven</ProductPriceRef>
                         </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>1</Value>
-                        </OptionPrice>
                     </Option>
                     <Option Sequence="7">
                         <Code>SFW-P</Code>
@@ -20909,10 +20773,6 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <ProductPriceRef>Studio Ven</ProductPriceRef>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>1</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -74140,163 +74000,6 @@
                     <ProductPropertyVisibility>1</ProductPropertyVisibility>
                 </Product>
                 <Product>
-                    <Code>Q-HA30KCRE</Code>
-                    <Description Language="en-US">QuickShip Center Electric Rectangular Adjustable Height Base, Use with 30&quot; deep rectangular top, (1-Kit)</Description>
-                    <Price>
-                        <PriceListRef>P5</PriceListRef>
-                        <Value>1413</Value>
-                    </Price>
-                    <Price>
-                        <PriceListRef>P4</PriceListRef>
-                        <Value>1743</Value>
-                    </Price>
-                    <Price>
-                        <PriceListRef>P3</PriceListRef>
-                        <Value>1482</Value>
-                    </Price>
-                    <Price>
-                        <PriceListRef>P2</PriceListRef>
-                        <Value>1594</Value>
-                    </Price>
-                    <Price>
-                        <PriceListRef>P1</PriceListRef>
-                        <Value>1594</Value>
-                    </Price>
-                    <ProductExternalReference>
-                        <ExternalReference>
-                            <FileURI>HA30CRE.png</FileURI>
-                            <Usage>
-                                <Type>NavigationImage</Type>
-                                <Quality>Medium</Quality>
-                            </Usage>
-                        </ExternalReference>
-                    </ProductExternalReference>
-                    <ProductExternalReference>
-                        <ExternalReferenceKey>
-                            <Type>FOOT</Type>
-                            <Value>C3W</Value>
-                        </ExternalReferenceKey>
-                        <ExternalReference>
-                            <FileURI>Reviewed\HA30CRE-C3W.cmsym</FileURI>
-                            <Usage>
-                                <Type>3DAndPlanView</Type>
-                                <Quality>Medium</Quality>
-                            </Usage>
-                        </ExternalReference>
-                    </ProductExternalReference>
-                    <ProductExternalReference>
-                        <ExternalReferenceKey>
-                            <Type>FOOT</Type>
-                            <Value>C3V</Value>
-                        </ExternalReferenceKey>
-                        <ExternalReference>
-                            <FileURI>Reviewed\HA30CRE-C3V.cmsym</FileURI>
-                            <Usage>
-                                <Type>3DAndPlanView</Type>
-                                <Quality>Medium</Quality>
-                            </Usage>
-                        </ExternalReference>
-                    </ProductExternalReference>
-                    <ProductExternalReference>
-                        <ExternalReferenceKey>
-                            <Type>FOOT</Type>
-                            <Value>C4D</Value>
-                        </ExternalReferenceKey>
-                        <ExternalReference>
-                            <FileURI>Reviewed\HA30CRE-C4D.cmsym</FileURI>
-                            <Usage>
-                                <Type>3DAndPlanView</Type>
-                                <Quality>Medium</Quality>
-                            </Usage>
-                        </ExternalReference>
-                    </ProductExternalReference>
-                    <ProductExternalReference>
-                        <ExternalReferenceKey>
-                            <Type>FOOT</Type>
-                            <Value>C3D</Value>
-                        </ExternalReferenceKey>
-                        <ExternalReference>
-                            <FileURI>Reviewed\HA30CRE-C3D.cmsym</FileURI>
-                            <Usage>
-                                <Type>3DAndPlanView</Type>
-                                <Quality>Medium</Quality>
-                            </Usage>
-                        </ExternalReference>
-                    </ProductExternalReference>
-                    <Measurement>
-                        <Type>width</Type>
-                        <Unit>IN</Unit>
-                        <System>imperial</System>
-                        <Value>3</Value>
-                    </Measurement>
-                    <Measurement>
-                        <Type>depth</Type>
-                        <Unit>IN</Unit>
-                        <System>imperial</System>
-                        <Value>26</Value>
-                    </Measurement>
-                    <Measurement>
-                        <Type>height</Type>
-                        <Unit>IN</Unit>
-                        <System>imperial</System>
-                        <Value>51.125</Value>
-                    </Measurement>
-                    <Measurement>
-                        <Type>weight</Type>
-                        <Unit>LBS</Unit>
-                        <System>imperial</System>
-                        <Value>64</Value>
-                    </Measurement>
-                    <Measurement>
-                        <Type>volume</Type>
-                        <Unit>cufeet</Unit>
-                        <System>imperial</System>
-                        <Value>3</Value>
-                    </Measurement>
-                    <PackageCount>1</PackageCount>
-                    <MirrorAngleOfSymmetry>90</MirrorAngleOfSymmetry>
-                    <Features Sequence="1">
-                        <FeatureRef>Q-base-foot-new</FeatureRef>
-                    </Features>
-                    <Features Sequence="2">
-                        <FeatureRef>Q-BASE-COL-BSW-new</FeatureRef>
-                    </Features>
-                    <Features Sequence="3">
-                        <FeatureRef>Q-control-new</FeatureRef>
-                    </Features>
-                    <ClassificationRef>
-                        <Code>IndTagCategory</Code>
-                        <ClassificationRef>
-                            <Code>aoWorksurfaces</Code>
-                            <ClassificationRef>
-                                <Code>aoWksfSupport</Code>
-                                <ClassificationRef>
-                                    <Code>aoWksfSupportTxt</Code>
-                                    <ClassificationRef>
-                                        <Code>surfaceSupportGenericInstallTxt</Code>
-                                    </ClassificationRef>
-                                </ClassificationRef>
-                            </ClassificationRef>
-                        </ClassificationRef>
-                    </ClassificationRef>
-                    <ClassificationRef>
-                        <Code>aoWorksurfaces</Code>
-                        <ClassificationRef>
-                            <Code>aoWksfSupport</Code>
-                            <ClassificationRef>
-                                <Code>aoWksfSupportSym</Code>
-                                <ClassificationRef>
-                                    <Code>surfaceSupport</Code>
-                                </ClassificationRef>
-                            </ClassificationRef>
-                        </ClassificationRef>
-                    </ClassificationRef>
-                    <ClassificationRef>
-                        <Code>normal</Code>
-                    </ClassificationRef>
-                    <ProductPropertyVisibility>1</ProductPropertyVisibility>
-                </Product>
-                <Product>
                     <Code>Q-HA30KCSE</Code>
                     <Description Language="en-US">Quickship 3x26 Sq. Electric Center Column Base Kit for 30&quot;D Square</Description>
                     <Price>
@@ -75754,11 +75457,6 @@
                                 <UniqueCode>2d73bfd0-932e-4ec4-8c6c-3a26f01d9f26</UniqueCode>
                                 <UILevel>toolGroup</UILevel>
                                 <Description Language="en-US">Electric</Description>
-                                <ProductRef>
-                                    <VendorRef>OFS</VendorRef>
-                                    <ProductCode>Q-HA30KCRE</ProductCode>
-                                    <SelectionDescription Language="en-US">QuickShip Center Electric Rectangular Adjustable Height Base, Use with 30&quot; deep rectangular top, (1-Kit)</SelectionDescription>
-                                </ProductRef>
                                 <ProductRef>
                                     <VendorRef>OFS</VendorRef>
                                     <ProductCode>Q-HA30KCSE</ProductCode>

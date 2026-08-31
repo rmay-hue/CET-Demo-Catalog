@@ -50490,7 +50490,7 @@
                             <MaterialRef>Cambria Black</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-24/3</FeatureRef>
+                            <FeatureRef>Sheen-24/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="6">
@@ -50582,7 +50582,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-24/3</FeatureRef>
+                            <FeatureRef>Sheen-24/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -50959,7 +50959,7 @@
                             <MaterialRef>Cambria Black</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-2424/3</FeatureRef>
+                            <FeatureRef>Sheen-2424/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="6">
@@ -51052,7 +51052,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-2424/3</FeatureRef>
+                            <FeatureRef>Sheen-2424/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -51429,7 +51429,7 @@
                             <MaterialRef>Cambria Black</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-30/3</FeatureRef>
+                            <FeatureRef>Sheen-30/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="6">
@@ -51522,7 +51522,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-30/3</FeatureRef>
+                            <FeatureRef>Sheen-30/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -51992,7 +51992,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3024/3</FeatureRef>
+                            <FeatureRef>Sheen-3024/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -52462,7 +52462,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3030/3</FeatureRef>
+                            <FeatureRef>Sheen-3030/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -52932,7 +52932,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-36/3</FeatureRef>
+                            <FeatureRef>Sheen-36/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -53402,7 +53402,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3636/3</FeatureRef>
+                            <FeatureRef>Sheen-3636/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -53872,7 +53872,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-42/3</FeatureRef>
+                            <FeatureRef>Sheen-42/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -54342,7 +54342,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4224/3</FeatureRef>
+                            <FeatureRef>Sheen-4224/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -54812,7 +54812,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4230/3</FeatureRef>
+                            <FeatureRef>Sheen-4230/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -55282,7 +55282,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4242/3</FeatureRef>
+                            <FeatureRef>Sheen-4242/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -55752,7 +55752,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-48/3</FeatureRef>
+                            <FeatureRef>Sheen-48/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -56222,7 +56222,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4830/3</FeatureRef>
+                            <FeatureRef>Sheen-4830/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -56692,7 +56692,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4848/3</FeatureRef>
+                            <FeatureRef>Sheen-4848/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -57162,7 +57162,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-60/3</FeatureRef>
+                            <FeatureRef>Sheen-60/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -57632,7 +57632,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-6030/3</FeatureRef>
+                            <FeatureRef>Sheen-6030/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -58102,7 +58102,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-6072/3</FeatureRef>
+                            <FeatureRef>Sheen-6072/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -58572,7 +58572,7 @@
                             <MaterialRef>Dovestone</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-7230/3</FeatureRef>
+                            <FeatureRef>Sheen-7230/3-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -58919,7 +58919,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-24/4</FeatureRef>
+                            <FeatureRef>Sheen-24/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -58939,7 +58939,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-24/4</FeatureRef>
+                            <FeatureRef>Sheen-24/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -59071,7 +59071,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-24/4</FeatureRef>
+                            <FeatureRef>Sheen-24/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -59081,7 +59081,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-24/4</FeatureRef>
+                            <FeatureRef>Sheen-24/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -59113,7 +59113,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-24/4</FeatureRef>
+                            <FeatureRef>Sheen-24/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -59217,7 +59217,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-2424/4</FeatureRef>
+                            <FeatureRef>Sheen-2424/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -59237,7 +59237,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-2424/4</FeatureRef>
+                            <FeatureRef>Sheen-2424/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -59369,7 +59369,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-2424/4</FeatureRef>
+                            <FeatureRef>Sheen-2424/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -59379,7 +59379,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-2424/4</FeatureRef>
+                            <FeatureRef>Sheen-2424/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -59411,7 +59411,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-2424/4</FeatureRef>
+                            <FeatureRef>Sheen-2424/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -59515,7 +59515,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-30/4</FeatureRef>
+                            <FeatureRef>Sheen-30/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -59535,7 +59535,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-30/4</FeatureRef>
+                            <FeatureRef>Sheen-30/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -59667,7 +59667,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-30/4</FeatureRef>
+                            <FeatureRef>Sheen-30/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -59677,7 +59677,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-30/4</FeatureRef>
+                            <FeatureRef>Sheen-30/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -59709,7 +59709,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-30/4</FeatureRef>
+                            <FeatureRef>Sheen-30/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -59813,7 +59813,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3024/4</FeatureRef>
+                            <FeatureRef>Sheen-3024/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -59833,7 +59833,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3024/4</FeatureRef>
+                            <FeatureRef>Sheen-3024/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -59965,7 +59965,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3024/4</FeatureRef>
+                            <FeatureRef>Sheen-3024/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -59975,7 +59975,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3024/4</FeatureRef>
+                            <FeatureRef>Sheen-3024/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -60007,7 +60007,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3024/4</FeatureRef>
+                            <FeatureRef>Sheen-3024/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -60111,7 +60111,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3030/4</FeatureRef>
+                            <FeatureRef>Sheen-3030/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -60131,7 +60131,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3030/4</FeatureRef>
+                            <FeatureRef>Sheen-3030/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -60263,7 +60263,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3030/4</FeatureRef>
+                            <FeatureRef>Sheen-3030/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -60273,7 +60273,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3030/4</FeatureRef>
+                            <FeatureRef>Sheen-3030/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -60305,7 +60305,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3030/4</FeatureRef>
+                            <FeatureRef>Sheen-3030/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -60409,7 +60409,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-36/4</FeatureRef>
+                            <FeatureRef>Sheen-36/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -60429,7 +60429,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-36/4</FeatureRef>
+                            <FeatureRef>Sheen-36/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -60561,7 +60561,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-36/4</FeatureRef>
+                            <FeatureRef>Sheen-36/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -60571,7 +60571,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-36/4</FeatureRef>
+                            <FeatureRef>Sheen-36/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -60603,7 +60603,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-36/4</FeatureRef>
+                            <FeatureRef>Sheen-36/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -60707,7 +60707,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3636/4</FeatureRef>
+                            <FeatureRef>Sheen-3636/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -60727,7 +60727,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3636/4</FeatureRef>
+                            <FeatureRef>Sheen-3636/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -60859,7 +60859,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3636/4</FeatureRef>
+                            <FeatureRef>Sheen-3636/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -60869,7 +60869,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3636/4</FeatureRef>
+                            <FeatureRef>Sheen-3636/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -60901,7 +60901,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-3636/4</FeatureRef>
+                            <FeatureRef>Sheen-3636/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -61005,7 +61005,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-42/4</FeatureRef>
+                            <FeatureRef>Sheen-42/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -61025,7 +61025,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-42/4</FeatureRef>
+                            <FeatureRef>Sheen-42/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -61157,7 +61157,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-42/4</FeatureRef>
+                            <FeatureRef>Sheen-42/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -61167,7 +61167,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-42/4</FeatureRef>
+                            <FeatureRef>Sheen-42/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -61199,7 +61199,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-42/4</FeatureRef>
+                            <FeatureRef>Sheen-42/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -61303,7 +61303,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4224/4</FeatureRef>
+                            <FeatureRef>Sheen-4224/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -61323,7 +61323,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4224/4</FeatureRef>
+                            <FeatureRef>Sheen-4224/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -61455,7 +61455,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4224/4</FeatureRef>
+                            <FeatureRef>Sheen-4224/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -61465,7 +61465,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4224/4</FeatureRef>
+                            <FeatureRef>Sheen-4224/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -61497,7 +61497,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4224/4</FeatureRef>
+                            <FeatureRef>Sheen-4224/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -61601,7 +61601,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4230/4</FeatureRef>
+                            <FeatureRef>Sheen-4230/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -61621,7 +61621,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4230/4</FeatureRef>
+                            <FeatureRef>Sheen-4230/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -61753,7 +61753,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4230/4</FeatureRef>
+                            <FeatureRef>Sheen-4230/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -61763,7 +61763,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4230/4</FeatureRef>
+                            <FeatureRef>Sheen-4230/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -61795,7 +61795,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4230/4</FeatureRef>
+                            <FeatureRef>Sheen-4230/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -61899,7 +61899,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4242/4</FeatureRef>
+                            <FeatureRef>Sheen-4242/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -61919,7 +61919,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4242/4</FeatureRef>
+                            <FeatureRef>Sheen-4242/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -62051,7 +62051,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4242/4</FeatureRef>
+                            <FeatureRef>Sheen-4242/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -62061,7 +62061,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4242/4</FeatureRef>
+                            <FeatureRef>Sheen-4242/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -62093,7 +62093,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4242/4</FeatureRef>
+                            <FeatureRef>Sheen-4242/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -62197,7 +62197,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-48/4</FeatureRef>
+                            <FeatureRef>Sheen-48/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -62217,7 +62217,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-48/4</FeatureRef>
+                            <FeatureRef>Sheen-48/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -62349,7 +62349,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-48/4</FeatureRef>
+                            <FeatureRef>Sheen-48/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -62359,7 +62359,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-48/4</FeatureRef>
+                            <FeatureRef>Sheen-48/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -62391,7 +62391,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-48/4</FeatureRef>
+                            <FeatureRef>Sheen-48/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -62495,7 +62495,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4830/4</FeatureRef>
+                            <FeatureRef>Sheen-4830/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -62515,7 +62515,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4830/4</FeatureRef>
+                            <FeatureRef>Sheen-4830/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -62647,7 +62647,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4830/4</FeatureRef>
+                            <FeatureRef>Sheen-4830/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -62657,7 +62657,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4830/4</FeatureRef>
+                            <FeatureRef>Sheen-4830/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -62689,7 +62689,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4830/4</FeatureRef>
+                            <FeatureRef>Sheen-4830/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -62793,7 +62793,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4848/4</FeatureRef>
+                            <FeatureRef>Sheen-4848/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -62813,7 +62813,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4848/4</FeatureRef>
+                            <FeatureRef>Sheen-4848/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -62945,7 +62945,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4848/4</FeatureRef>
+                            <FeatureRef>Sheen-4848/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -62955,7 +62955,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4848/4</FeatureRef>
+                            <FeatureRef>Sheen-4848/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -62987,7 +62987,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-4848/4</FeatureRef>
+                            <FeatureRef>Sheen-4848/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -63091,7 +63091,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-60/4</FeatureRef>
+                            <FeatureRef>Sheen-60/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -63111,7 +63111,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-60/4</FeatureRef>
+                            <FeatureRef>Sheen-60/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -63243,7 +63243,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-60/4</FeatureRef>
+                            <FeatureRef>Sheen-60/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -63253,7 +63253,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-60/4</FeatureRef>
+                            <FeatureRef>Sheen-60/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -63285,7 +63285,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-60/4</FeatureRef>
+                            <FeatureRef>Sheen-60/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -63389,7 +63389,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-6030/4</FeatureRef>
+                            <FeatureRef>Sheen-6030/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -63409,7 +63409,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-6030/4</FeatureRef>
+                            <FeatureRef>Sheen-6030/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -63541,7 +63541,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-6030/4</FeatureRef>
+                            <FeatureRef>Sheen-6030/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -63551,7 +63551,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-6030/4</FeatureRef>
+                            <FeatureRef>Sheen-6030/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -63583,7 +63583,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-6030/4</FeatureRef>
+                            <FeatureRef>Sheen-6030/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -63687,7 +63687,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-6072/4</FeatureRef>
+                            <FeatureRef>Sheen-6072/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -63707,7 +63707,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-6072/4</FeatureRef>
+                            <FeatureRef>Sheen-6072/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -63839,7 +63839,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-6072/4</FeatureRef>
+                            <FeatureRef>Sheen-6072/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -63849,7 +63849,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-6072/4</FeatureRef>
+                            <FeatureRef>Sheen-6072/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -63881,7 +63881,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-6072/4</FeatureRef>
+                            <FeatureRef>Sheen-6072/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -63985,7 +63985,7 @@
                             <MaterialRef>Blackpool Matte</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-7230/4</FeatureRef>
+                            <FeatureRef>Sheen-7230/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -64005,7 +64005,7 @@
                             <MaterialRef>Inverness Stonestreet</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-7230/4</FeatureRef>
+                            <FeatureRef>Sheen-7230/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -64137,7 +64137,7 @@
                             <MaterialRef>Windsor Brass</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-7230/4</FeatureRef>
+                            <FeatureRef>Sheen-7230/4-p</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="13">
@@ -64147,7 +64147,7 @@
                             <MaterialRef>Windsor Brass Satin Ridge</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-7230/4</FeatureRef>
+                            <FeatureRef>Sheen-7230/4-s</FeatureRef>
                         </Features>
                     </Option>
                 </Feature>
@@ -64179,7 +64179,7 @@
                             <MaterialRef>Annaleigh</MaterialRef>
                         </MaterialApplication>
                         <Features Sequence="1">
-                            <FeatureRef>Sheen-7230/4</FeatureRef>
+                            <FeatureRef>Sheen-7230/4-m</FeatureRef>
                         </Features>
                     </Option>
                     <Option Sequence="3">
@@ -66205,6 +66205,53 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-24/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S24RD-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                    <Option Sequence="2">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S24RD-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>3 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>3 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>3 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>3 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>3 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-24/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -66226,6 +66273,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S24RD-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-24/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S24RD-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-24/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S24RD-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-24/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>S24RD-QTZ</FeatureRef>
                         </Features>
@@ -66355,6 +66497,53 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-2424/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>2430SDT-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                    <Option Sequence="2">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>2430SDT-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>3 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>3 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>3 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>3 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>3 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-2424/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -66376,6 +66565,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>2430SDT-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-2424/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>2430SDT-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-2424/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>2430SDT-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-2424/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>2430SDT-QTZ</FeatureRef>
                         </Features>
@@ -66505,6 +66789,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-30/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S30RD-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-30/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -66526,6 +66829,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S30RD-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-30/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S30RD-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-30/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S30RD-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-30/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>S30RD-QTZ</FeatureRef>
                         </Features>
@@ -66655,6 +67053,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-3024/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>30RC-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-3024/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -66676,6 +67093,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>30RC-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-3024/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>30RC-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-3024/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>30RC-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-3024/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>30RC-Base-QTZ</FeatureRef>
                         </Features>
@@ -66787,6 +67299,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-3030/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>2430SDT-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-3030/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -66808,6 +67339,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>2430SDT-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-3030/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>2430SDT-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-3030/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>2430SDT-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-3030/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>2430SDT-QTZ</FeatureRef>
                         </Features>
@@ -66937,6 +67563,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-36/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S36RD-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-36/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -66958,6 +67603,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S36RD-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-36/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S36RD-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-36/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S36RD-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-36/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>S36RD-QTZ</FeatureRef>
                         </Features>
@@ -67087,6 +67827,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-3636/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>3636SDT-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-3636/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -67108,6 +67867,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>3636SDT-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-3636/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>3636SDT-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-3636/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>3636SDT-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-3636/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>3636SDT-QTZ</FeatureRef>
                         </Features>
@@ -67237,6 +68091,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-42/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S42RD-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-42/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -67258,6 +68131,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S42RD-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-42/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S42RD-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-42/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S42RD-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-42/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>S42RD-Base-QTZ</FeatureRef>
                         </Features>
@@ -67387,6 +68355,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-4224/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>42RC-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-4224/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -67408,6 +68395,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>42RC-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4224/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>42RC-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4224/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>42RC-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4224/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>42RC-Base-QTZ</FeatureRef>
                         </Features>
@@ -67537,6 +68619,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-4230/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>4230RC-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-4230/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -67558,6 +68659,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>4230RC-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4230/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>4230RC-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4230/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>4230RC-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4230/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>4230RC-Base-QTZ</FeatureRef>
                         </Features>
@@ -67687,6 +68883,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-4242/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>4842SDT-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-4242/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -67708,6 +68923,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>4842SDT-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4242/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>4842SDT-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4242/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>4842SDT-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4242/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>4842SDT-Base-QTZ</FeatureRef>
                         </Features>
@@ -67837,6 +69147,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-48/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S48RD-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-48/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -67858,6 +69187,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S48RD-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-48/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S48RD-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-48/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>S48RD-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-48/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>S48RD-Base-QTZ</FeatureRef>
                         </Features>
@@ -67987,6 +69411,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-4830/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>48RC-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-4830/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -68008,6 +69451,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>48RC-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4830/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>48RC-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4830/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>48RC-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4830/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>48RC-Base-QTZ</FeatureRef>
                         </Features>
@@ -68137,6 +69675,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-4848/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>4848SDT-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-4848/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -68158,6 +69715,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>4848SDT-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4848/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>4848SDT-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4848/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>4848SDT-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-4848/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>4848SDT-Base-QTZ</FeatureRef>
                         </Features>
@@ -68287,6 +69939,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-60/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>BASE-60RNDT</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-60/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -68308,6 +69979,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>BASE-60RNDT</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-60/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>BASE-60RNDT</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-60/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>BASE-60RNDT</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-60/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>BASE-60RNDT</FeatureRef>
                         </Features>
@@ -68437,6 +70203,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-6030/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>60RC-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-6030/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -68458,6 +70243,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>60RC-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-6030/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>60RC-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-6030/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>60RC-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-6030/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>60RC-QTZ</FeatureRef>
                         </Features>
@@ -68587,6 +70467,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-6072/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>6072RC-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-6072/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -68608,6 +70507,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>6072RC-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-6072/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>6072RC-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-6072/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>6072RC-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-6072/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>6072RC-Base-QTZ</FeatureRef>
                         </Features>
@@ -68737,6 +70731,25 @@
                     </Option>
                 </Feature>
                 <Feature>
+                    <Code>Sheen-7230/3-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>6072RC-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
                     <Code>Sheen-7230/4</Code>
                     <DecimalPlaces>2</DecimalPlaces>
                     <DataType>Character</DataType>
@@ -68758,6 +70771,101 @@
                         <Code>MAT</Code>
                         <UndefinedSelection>0</UndefinedSelection>
                         <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>6072RC-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-7230/4-m</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>MAT</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Matte</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>6072RC-Base-QTZ</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <ProductPriceRef>4 Matte</ProductPriceRef>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-7230/4-p</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>PLH</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>PLH</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Polished</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>6072RC-Base-QTZ</FeatureRef>
+                        </Features>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>Sheen-7230/4-s</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Sheen</Description>
+                    <GroupCode>Sheen</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <Option Sequence="1">
+                        <Code>STN</Code>
+                        <UndefinedSelection>0</UndefinedSelection>
+                        <Description Language="en-US">Satin</Description>
                         <Features Sequence="1">
                             <FeatureRef>6072RC-Base-QTZ</FeatureRef>
                         </Features>
@@ -69985,26 +72093,6 @@
                         <Features Sequence="1">
                             <FeatureRef>PP EDGE-GR2</FeatureRef>
                         </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>0</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>0</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>0</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>0</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>0</Value>
-                        </OptionPrice>
                     </Option>
                     <Option Sequence="5">
                         <Code>RW2-S</Code>
@@ -169164,7 +171252,7 @@
         <Catalog Sequence="1">
             <Code>N20</Code>
             <Version>
-                <Code>2026.02.02</Code>
+                <Code>2026.08.12</Code>
             </Version>
             <Description Language="en-US">Nineteen20 Tables Collection</Description>
             <Name Language="en-US">Nineteen20 Tables Collection</Name>

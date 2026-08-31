@@ -13244,6 +13244,28 @@
                 </MaterialExternalReference>
             </Material>
             <Material>
+                <Code>3135032</Code>
+                <Description Language="en-US">Pewter</Description>
+                <MaterialExternalReference>
+                    <FileURI>OFS Fabrics\Prime\3135032.gm</FileURI>
+                    <Usage>
+                        <Type>SwatchImage</Type>
+                        <Quality>Medium</Quality>
+                    </Usage>
+                </MaterialExternalReference>
+            </Material>
+            <Material>
+                <Code>3135033</Code>
+                <Description Language="en-US">Pebble</Description>
+                <MaterialExternalReference>
+                    <FileURI>OFS Fabrics\Prime\3135033.gm</FileURI>
+                    <Usage>
+                        <Type>SwatchImage</Type>
+                        <Quality>Medium</Quality>
+                    </Usage>
+                </MaterialExternalReference>
+            </Material>
+            <Material>
                 <Code>3135056</Code>
                 <Description Language="en-US">Olive</Description>
                 <MaterialExternalReference>
@@ -13644,6 +13666,50 @@
                 <Description Language="en-US">Ritz</Description>
                 <MaterialExternalReference>
                     <FileURI>OFS Fabrics\Gatsby\3136389.gm</FileURI>
+                    <Usage>
+                        <Type>SwatchImage</Type>
+                        <Quality>Medium</Quality>
+                    </Usage>
+                </MaterialExternalReference>
+            </Material>
+            <Material>
+                <Code>3136413</Code>
+                <Description Language="en-US">Clay</Description>
+                <MaterialExternalReference>
+                    <FileURI>OFS Fabrics\Prime\3136413.gm</FileURI>
+                    <Usage>
+                        <Type>SwatchImage</Type>
+                        <Quality>Medium</Quality>
+                    </Usage>
+                </MaterialExternalReference>
+            </Material>
+            <Material>
+                <Code>3136414</Code>
+                <Description Language="en-US">Obsidian</Description>
+                <MaterialExternalReference>
+                    <FileURI>OFS Fabrics\Prime\3136414.gm</FileURI>
+                    <Usage>
+                        <Type>SwatchImage</Type>
+                        <Quality>Medium</Quality>
+                    </Usage>
+                </MaterialExternalReference>
+            </Material>
+            <Material>
+                <Code>3136415</Code>
+                <Description Language="en-US">Tungsten</Description>
+                <MaterialExternalReference>
+                    <FileURI>OFS Fabrics\Prime\3136415.gm</FileURI>
+                    <Usage>
+                        <Type>SwatchImage</Type>
+                        <Quality>Medium</Quality>
+                    </Usage>
+                </MaterialExternalReference>
+            </Material>
+            <Material>
+                <Code>3136416</Code>
+                <Description Language="en-US">Quartz</Description>
+                <MaterialExternalReference>
+                    <FileURI>OFS Fabrics\Prime\3136416.gm</FileURI>
                     <Usage>
                         <Type>SwatchImage</Type>
                         <Quality>Medium</Quality>
@@ -44630,29 +44696,29 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
-                            <Value>63</Value>
+                            <Value>99</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P2</PriceListRef>
-                            <Value>63</Value>
+                            <Value>99</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P3</PriceListRef>
-                            <Value>63</Value>
+                            <Value>99</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P4</PriceListRef>
-                            <Value>53</Value>
+                            <Value>88</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
-                            <Value>53</Value>
+                            <Value>88</Value>
                         </OptionPrice>
                     </Option>
                     <Option Sequence="9">
@@ -44793,6 +44859,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -44896,33 +44965,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>134</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>134</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>134</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>138</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>138</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -44947,6 +44989,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>53</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>134</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>134</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>134</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>138</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>138</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -45151,29 +45220,29 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
-                            <Value>74</Value>
+                            <Value>115</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P2</PriceListRef>
-                            <Value>74</Value>
+                            <Value>115</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P3</PriceListRef>
-                            <Value>74</Value>
+                            <Value>115</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P4</PriceListRef>
-                            <Value>62</Value>
+                            <Value>103</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
-                            <Value>62</Value>
+                            <Value>103</Value>
                         </OptionPrice>
                     </Option>
                     <Option Sequence="9">
@@ -45314,6 +45383,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -45417,33 +45489,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>156</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>156</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>156</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>160</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>160</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -45468,6 +45513,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>62</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>156</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>156</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>156</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>160</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>160</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -45672,29 +45744,29 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
-                            <Value>95</Value>
+                            <Value>148</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P2</PriceListRef>
-                            <Value>95</Value>
+                            <Value>148</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P3</PriceListRef>
-                            <Value>95</Value>
+                            <Value>148</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P4</PriceListRef>
-                            <Value>79</Value>
+                            <Value>132</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
-                            <Value>79</Value>
+                            <Value>132</Value>
                         </OptionPrice>
                     </Option>
                     <Option Sequence="9">
@@ -45835,6 +45907,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -45938,33 +46013,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>201</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>201</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>201</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>206</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>206</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -45989,6 +46037,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>79</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>201</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>201</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>201</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>206</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>206</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -46193,29 +46268,29 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
-                            <Value>116</Value>
+                            <Value>181</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P2</PriceListRef>
-                            <Value>116</Value>
+                            <Value>181</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P3</PriceListRef>
-                            <Value>116</Value>
+                            <Value>181</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P4</PriceListRef>
-                            <Value>97</Value>
+                            <Value>162</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
-                            <Value>97</Value>
+                            <Value>162</Value>
                         </OptionPrice>
                     </Option>
                     <Option Sequence="9">
@@ -46356,6 +46431,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -46459,33 +46537,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>246</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>246</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>246</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>252</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>252</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -46510,6 +46561,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>97</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>246</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>246</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>246</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>252</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>252</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -46714,29 +46792,29 @@
                     </Option>
                     <Option Sequence="8">
                         <Code>~JOVY</Code>
-                        <Description Language="en-US">Jovy - Grade 3</Description>
+                        <Description Language="en-US">Jovy - Grade 4</Description>
                         <Features Sequence="1">
                             <FeatureRef>OFS-Jovy</FeatureRef>
                         </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
-                            <Value>85</Value>
+                            <Value>132</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P2</PriceListRef>
-                            <Value>85</Value>
+                            <Value>132</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P3</PriceListRef>
-                            <Value>85</Value>
+                            <Value>132</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P4</PriceListRef>
-                            <Value>71</Value>
+                            <Value>118</Value>
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
-                            <Value>71</Value>
+                            <Value>118</Value>
                         </OptionPrice>
                     </Option>
                     <Option Sequence="9">
@@ -46877,6 +46955,9 @@
                     <Option Sequence="14">
                         <Code>~PRIME</Code>
                         <Description Language="en-US">Prime - Grade 1</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-Prime</FeatureRef>
+                        </Features>
                         <OptionPrice>
                             <PriceListRef>P1</PriceListRef>
                             <Value>0</Value>
@@ -46980,33 +47061,6 @@
                         </OptionPrice>
                     </Option>
                     <Option Sequence="18">
-                        <Code>~UMBRA</Code>
-                        <Description Language="en-US">Umbra - Grade 5</Description>
-                        <Features Sequence="1">
-                            <FeatureRef>OFS-UMBRA</FeatureRef>
-                        </Features>
-                        <OptionPrice>
-                            <PriceListRef>P1</PriceListRef>
-                            <Value>179</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P2</PriceListRef>
-                            <Value>179</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P3</PriceListRef>
-                            <Value>179</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P4</PriceListRef>
-                            <Value>183</Value>
-                        </OptionPrice>
-                        <OptionPrice>
-                            <PriceListRef>P5</PriceListRef>
-                            <Value>183</Value>
-                        </OptionPrice>
-                    </Option>
-                    <Option Sequence="19">
                         <Code>~TRIMBLE</Code>
                         <Description Language="en-US">Trimble - Grade 3</Description>
                         <Features Sequence="1">
@@ -47031,6 +47085,33 @@
                         <OptionPrice>
                             <PriceListRef>P5</PriceListRef>
                             <Value>71</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="19">
+                        <Code>~UMBRA</Code>
+                        <Description Language="en-US">Umbra - Grade 5</Description>
+                        <Features Sequence="1">
+                            <FeatureRef>OFS-UMBRA</FeatureRef>
+                        </Features>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>179</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>179</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>179</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>183</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>183</Value>
                         </OptionPrice>
                     </Option>
                 </Feature>
@@ -49105,6 +49186,179 @@
                         </OptionPrice>
                         <OptionPrice>
                             <PriceListRef>P3</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                    </Option>
+                </Feature>
+                <Feature>
+                    <Code>OFS-Prime</Code>
+                    <DecimalPlaces>2</DecimalPlaces>
+                    <DataType>Character</DataType>
+                    <Description Language="en-US">Fabric Color, OFS Prime</Description>
+                    <GroupCode>OFS</GroupCode>
+                    <InvOptsVisibility>0</InvOptsVisibility>
+                    <FeaturePropertyVisibility>1</FeaturePropertyVisibility>
+                    <SyncOptionDirection>0</SyncOptionDirection>
+                    <DefaultOptionRef>3135032</DefaultOptionRef>
+                    <Option Sequence="1">
+                        <Code>3135032</Code>
+                        <Description Language="en-US">Pewter</Description>
+                        <MaterialApplication>
+                            <MaterialRef>3135032</MaterialRef>
+                        </MaterialApplication>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="2">
+                        <Code>3135033</Code>
+                        <Description Language="en-US">Pebble</Description>
+                        <MaterialApplication>
+                            <MaterialRef>3135033</MaterialRef>
+                        </MaterialApplication>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="3">
+                        <Code>3136416</Code>
+                        <Description Language="en-US">Quartz</Description>
+                        <MaterialApplication>
+                            <MaterialRef>3136416</MaterialRef>
+                        </MaterialApplication>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="4">
+                        <Code>3136414</Code>
+                        <Description Language="en-US">Obsidian</Description>
+                        <MaterialApplication>
+                            <MaterialRef>3136414</MaterialRef>
+                        </MaterialApplication>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="5">
+                        <Code>3136415</Code>
+                        <Description Language="en-US">Tungsten</Description>
+                        <MaterialApplication>
+                            <MaterialRef>3136415</MaterialRef>
+                        </MaterialApplication>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                    </Option>
+                    <Option Sequence="6">
+                        <Code>3136413</Code>
+                        <Description Language="en-US">Clay</Description>
+                        <MaterialApplication>
+                            <MaterialRef>3136413</MaterialRef>
+                        </MaterialApplication>
+                        <OptionPrice>
+                            <PriceListRef>P3</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P4</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P5</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P1</PriceListRef>
+                            <Value>0</Value>
+                        </OptionPrice>
+                        <OptionPrice>
+                            <PriceListRef>P2</PriceListRef>
                             <Value>0</Value>
                         </OptionPrice>
                     </Option>
@@ -101129,7 +101383,7 @@
         <Catalog Sequence="1">
             <Code>OEW</Code>
             <Version>
-                <Code>2026.07.29</Code>
+                <Code>2026.08.26</Code>
             </Version>
             <Description Language="en-US">Eleven Wood - Tables</Description>
             <Name Language="en-US">Eleven Wood - Tables</Name>
